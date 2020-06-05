@@ -1,0 +1,33 @@
+body{
+    
+    
+}
+.time_ago{
+    margin: auto;
+}
+.ago {
+    margin-bottom: 0px;
+    
+    font-size: 14px;
+}
+
+.Comment{
+    margin: 89px 0px 0px 59px;
+/*    background-color: olivedrab;*/
+    
+}
+
+.Comment .comment_header{
+    font-size: 18px;
+}
+.comment_header a{
+    color: #ce13dc;
+}
+.headerUI{
+    padding: 6px 0px 16px;
+}
+
+.headerUI h2{
+    color: #162643;
+    font-size: 16px;
+}
